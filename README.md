@@ -1,0 +1,2 @@
+# FairFunApp
+Репрозиторий приложения FairFun
